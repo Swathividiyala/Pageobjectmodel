@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T23:28:02 IST" name="Default suite" finished-at="2021-08-11T23:28:40 IST" duration-ms="38519">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T23:28:02 IST" name="Default test" finished-at="2021-08-11T23:28:40 IST" duration-ms="38519">
+      <class name="PageObjectTest.LoginTest">
+        <test-method is-config="true" signature="redifflogin()[pri:0, instance:PageObjectTest.LoginTest@49dc7102]" started-at="2021-08-11T23:28:02 IST" name="redifflogin" finished-at="2021-08-11T23:28:06 IST" duration-ms="4158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redifflogin -->
+        <test-method signature="emailLogin()[pri:0, instance:PageObjectTest.LoginTest@49dc7102]" started-at="2021-08-11T23:28:06 IST" name="emailLogin" finished-at="2021-08-11T23:28:17 IST" duration-ms="10723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailLogin -->
+        <test-method signature="Home()[pri:1, instance:PageObjectTest.LoginTest@49dc7102]" started-at="2021-08-11T23:28:17 IST" name="Home" finished-at="2021-08-11T23:28:39 IST" duration-ms="22674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method is-config="true" signature="suspend()[pri:0, instance:PageObjectTest.LoginTest@49dc7102]" started-at="2021-08-11T23:28:39 IST" name="suspend" finished-at="2021-08-11T23:28:40 IST" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suspend -->
+      </class> <!-- PageObjectTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
